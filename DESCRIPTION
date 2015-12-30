@@ -1,0 +1,9 @@
+Package: polr-back2raw
+Type: Package
+Title: fits an ordered logistic regression model to make marginal fitted probabilities close to observed ones 
+Version: 0.0.0.9000
+Date: 2015-12-30
+Author: Sumit Rahman
+Maintainer: Sumit Rahman <sumitrahman@yahoo.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
